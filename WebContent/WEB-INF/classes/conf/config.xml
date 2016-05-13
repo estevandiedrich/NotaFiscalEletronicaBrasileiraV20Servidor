@@ -1,0 +1,33 @@
+<config>
+	<enviNFeThreadSleep>5000</enviNFeThreadSleep>
+	<configs>
+		<configVO>
+		  <enviNFeTXT>c:\filas\enviNFe\txt\envio</enviNFeTXT>
+		  <consReciNFeTXT>c:\filas\enviNFe\txt\retorno</consReciNFeTXT>
+		  <enviNFeXML>c:\filas\enviNFe\xml</enviNFeXML>
+		  <enviNFeXSD>C:\dev.estevan\workspace-java\NotaFiscalEletronicaBrasileiraV20\resources\PL_006g\enviNFe_v2.00.xsd</enviNFeXSD>
+		  <enviNFeXMLAssinados>C:\filas\enviNFe\xmlAssinados</enviNFeXMLAssinados>
+		  <enviNFeXMLValidos>c:\filas\enviNFe\xmlValidos</enviNFeXMLValidos>
+		  <enviNFeXMLInvalidos>c:\filas\enviNFe\xmlInvalidos</enviNFeXMLInvalidos>
+		  <enviNFeXMLEnviados>c:\filas\enviNFe\xmlEnviados</enviNFeXMLEnviados>
+		  <enviNFeXMLAutorizados>c:\filas\enviNFe\xmlAutorizados</enviNFeXMLAutorizados>
+		  <enviNFeXMLDenegados>c:\filas\enviNFe\xmlDenegados</enviNFeXMLDenegados>
+		  <enviNFeXMLProcessados>C:\filas\enviNFe\xmlProcessados</enviNFeXMLProcessados>
+		  <servidorEmail>smtp.gmail.com</servidorEmail>
+		  <portaEmail>587</portaEmail>
+		  <emailDe>estevan.diedrich@gmail.com</emailDe>
+		  <emailPara>estevan.diedrich@gmail.com</emailPara>
+		  <usuarioEmail>estevan.diedrich</usuarioEmail>
+		  <senhaEmail>49842320@Estevan)!</senhaEmail>
+		  <danfe>c:\filas\danfe</danfe>
+		  <impressora>PDFCreator</impressora>		  
+		  <jks>../conf/coaccer.jks</jks>
+		  <jksPassword>gati@2008</jksPassword>
+		  <pfxPassword>1234</pfxPassword>
+		  <pfxAlias>coaccer</pfxAlias>
+		  <logoDanfe>../conf/laboratoriocat.gif</logoDanfe>
+		  <cnpj>05537225000286</cnpj>
+		  <cUF>42</cUF>
+		</configVO>
+	</configs>
+</config>

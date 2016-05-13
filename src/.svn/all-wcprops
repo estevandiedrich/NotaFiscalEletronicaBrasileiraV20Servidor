@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/java/!svn/ver/7/trunk/NotaFiscalEletronicaBrasileiraV20Servidor/src
+END
+cxf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/java/!svn/ver/7/trunk/NotaFiscalEletronicaBrasileiraV20Servidor/src/cxf.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/java/!svn/ver/7/trunk/NotaFiscalEletronicaBrasileiraV20Servidor/src/log4j.properties
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/java/!svn/ver/7/trunk/NotaFiscalEletronicaBrasileiraV20Servidor/src/hibernate.cfg.xml
+END
